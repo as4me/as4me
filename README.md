@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @as4me
-- 👀 I’m interested in Mobile dev
+- 👀 I’m interested in ML
 - 🌱 I’m currently DS
 - 💞️ I’m looking to collaborate on Pet DS Projects
 - 📫 How to reach me @apusx:Telegram
