@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **Ozon**
 
-- 🌱 I’m currently learning **horizontal scaling**
+- 🌱 I’m currently learning **Data Engineering**
 
-- 👯 I’m looking to collaborate on **DS Pet projects**
+- 👯 I’m looking to collaborate on **SaaS Pet projects**
 
 - 👨‍💻 All of my projects are available at [https://as4me.github.io/portfolio/](https://as4me.github.io/portfolio/)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python, Kotlin, SQL....**
 
 - 📫 How to reach me **se-an-ev@yandex.ru**
 
