@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=as4me" alt="as4me" /></a> </p>
 
-- 🔭 I’m currently working on **Ozon**
-
 - 🌱 I’m currently learning **Data Engineering**
 
 - 👯 I’m looking to collaborate on **SaaS Pet projects**
