@@ -17,7 +17,6 @@
 
 - 📫 Telegram **@aevsergeev**
 
-- 📄 Know about my experiences [https://hh.ru/resume/baa1549bff0b0afa0d0039ed1f72393270704f](https://hh.ru/resume/baa1549bff0b0afa0d0039ed1f72393270704f)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
